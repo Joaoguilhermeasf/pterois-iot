@@ -61,3 +61,4 @@ python src/publisher.py
 
 Continuação da Atividade 1 (Planejamento de uma Solução IoT) da mesma disciplina.
 # pterois-iot
+# pterois-iot
