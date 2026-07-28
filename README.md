@@ -64,3 +64,4 @@ Continuação da Atividade 1 (Planejamento de uma Solução IoT) da mesma discip
 # pterois-iot
 # pterois-iot
 # pertois-iot
+# pertois-iot
