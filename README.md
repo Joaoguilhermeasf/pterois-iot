@@ -60,8 +60,6 @@ python src/publisher.py
 ## Referência
 
 Continuação da Atividade 1 (Planejamento de uma Solução IoT) da mesma disciplina.
-# pterois-iot
-# pterois-iot
-# pterois-iot
+
 # pertois-iot
 # pertois-iot
